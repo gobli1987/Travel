@@ -1,2 +1,6 @@
 Dallas,Texas
+
 seattle,WA
+
+Atlanta,GA
+
