@@ -1,1 +1,2 @@
 Dallas,Texas
+seattle,WA
